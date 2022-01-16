@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hanmant Petekar
 - 👀 I’m interested in Python development.
-- 🌱 I’m currently learning djngo framework
+- 🌱 I’m currently learning Django framework
 - 💞️ I’m looking to collaborate on python based projects.
 - 📫 You can reach me on hpetekar@gmail.com
 
