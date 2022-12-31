@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Hanmant Petekar
-- 👀 I’m interested in Python development.
+- 👀 I’m interested in Frontend ,Python development.
 - 🌱 I’m currently learning Django framework
-- 💞️ I’m looking to collaborate on python based projects.
+- 💞️ I’m looking to collaborate on React js, Frontend  and python based projects.
 - 📫 You can reach me on hpetekar@gmail.com
 
 <!---
